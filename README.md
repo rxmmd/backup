@@ -9,3 +9,9 @@
 ---
 
  - [x] Easily configurable with support for multiple database credentials. 🔧
+
+
+| ویژگی | X-UI | Marzban | Hiddify |
+|--------|------|---------|---------|
+| سرعت  | بالا | متوسط  | بالا   |
+| لاگ    | بله  | بله    | خیر    |
