@@ -8,4 +8,4 @@
 - [x] and sends the backup to Telegram 📲
 ---
 
-### - [x] Easily configurable with support for multiple database credentials. 🔧
+ - [x] Easily configurable with support for multiple database credentials. 🔧
