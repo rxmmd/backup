@@ -16,7 +16,7 @@
 
 | Feature | 
 |--------|
-| easy  |
-| compatibility | 
+|- [x]  easy  |
+|- [x]  compatibility | 
 
 </div>
