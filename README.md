@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| ویژگی | X-UI | Marzban | Hiddify |
+| Feature | 
 |--------|------|---------|---------|
-| سرعت  | بالا | متوسط  | بالا   |
-| لاگ    | بله  | بله    | خیر    |
+| easy  |
+| compatibility | 
 
 </div>
