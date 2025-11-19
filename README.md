@@ -27,8 +27,11 @@
   <summary>نمایش دستورات GA</summary>
 
   اینجا هر متنی، کد یا عکس که می‌خواهی می‌گذاری.  
-  مثلا:
+<div align="center">
 
-  ```bash
-  ga init
-  ga run
+| Feature | 
+|--------|
+|✅ easy  |
+|✅ compatibility | 
+
+</div>
