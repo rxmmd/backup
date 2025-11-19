@@ -21,9 +21,13 @@
   اینجا هر متنی، کد یا عکس که می‌خواهی می‌گذاری.  
 <div align="center">
 
-| Feature | | Feature | 
-|--------| |--------|
-|✅ easy  ||✅ easy  |
-|✅ compatibility | |✅ compatibility | 
+| Feature | 
+| Feature | 
+|--------|
+|--------|
+|✅ easy  |
+|✅ easy  |
+|✅ compatibility | 
+|✅ compatibility | 
 
 </div>
