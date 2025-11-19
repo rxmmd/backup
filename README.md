@@ -13,21 +13,8 @@
 ---
 
 
-<details>
-  <summary>دستورات GA</summary>
+| php | X-UI | Marzban | php |
+|--------|------|---------|---------|
+| f  | بالا | متوسط  | بالا   |
 
-  متن یا کد مربوط به GA اینجاست.
-</details>
-
-<details>
-  <summary>دستورات Docker</summary>
-    <summary>دستورات Docker</summary>
-
-
-  متن یا کد مربوط به Docker اینجاست
-      <summary>2222</summary>
-
-      لیلیلی
-  
-</details>
 
