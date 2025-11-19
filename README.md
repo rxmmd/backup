@@ -21,6 +21,14 @@
 
 </div>
 
-## **Support**  
+## دستورات GA
 
-test
+<details>
+  <summary>نمایش دستورات GA</summary>
+
+  اینجا هر متنی، کد یا عکس که می‌خواهی می‌گذاری.  
+  مثلا:
+
+  ```bash
+  ga init
+  ga run
