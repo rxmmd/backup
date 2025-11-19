@@ -22,9 +22,8 @@
 <div align="center">
 
 | Feature | | Feature | 
-|--------|
-|--------|
-|✅ easy  ||✅ easy  |
-|✅ compatibility | |✅ compatibility | 
+|--------||--------|
+|✅ easy  || easy  |
+|✅ compatibility ||✅ compatibility | 
 
 </div>
